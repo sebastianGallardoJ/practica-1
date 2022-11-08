@@ -1,1 +1,1 @@
-const apellido
+const apellido = require('./archivo3.json')
